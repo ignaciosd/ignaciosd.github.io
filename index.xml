@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://ignaciosd.github.io/</link>
+      <atom:link href="https://ignaciosd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>A Text message....</copyright><lastBuildDate>Sun, 25 Oct 2020 12:45:42 -0500</lastBuildDate>
+    <image>
+      <url>https://ignaciosd.github.io/media/icon3.png</url>
+      <title></title>
+      <link>https://ignaciosd.github.io/</link>
+    </image>
+    
+    <item>
+      <title>New EDA</title>
+      <link>https://ignaciosd.github.io/publication/new-eda/</link>
+      <pubDate>Sun, 25 Oct 2020 12:45:42 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/publication/new-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Talk Wow</title>
+      <link>https://ignaciosd.github.io/talk/a-talk-wow/</link>
+      <pubDate>Sun, 25 Oct 2020 12:43:07 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/talk/a-talk-wow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hidden Project</title>
+      <link>https://ignaciosd.github.io/project/the-hidden-project/</link>
+      <pubDate>Sun, 25 Oct 2020 12:39:29 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/project/the-hidden-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News Update</title>
+      <link>https://ignaciosd.github.io/post/news-update/</link>
+      <pubDate>Sun, 25 Oct 2020 12:25:31 -0500</pubDate>
+      <guid>https://ignaciosd.github.io/post/news-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ignaciosd.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0600</pubDate>
+      <guid>https://ignaciosd.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[13/04/20]&lt;/strong&gt; New paper on &lt;a href=&#34;https://ignaciosd.github.io/publication/2020jpaturet/&#34;&gt;Stochastic Unit Commitment in Low-Inertia Grids&lt;/a&gt; published on IEEE Transactions on Power Systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/02/20]&lt;/strong&gt; Seminar presentation on &lt;a href=&#34;https://ignaciosd.github.io/talk/2020-feb-ucy/&#34;&gt;Data-driven decentralised control design in Active Distribution Networks&lt;/a&gt; at &lt;a href=&#34;http://ucy.ac.cy&#34;&gt;UCY&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/12/19]&lt;/strong&gt; New paper on &lt;a href=&#34;https://ignaciosd.github.io/publication/2020jdehghan/&#34;&gt; A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies&lt;/a&gt; published on IEEE Systems Journal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/12/18]&lt;/strong&gt; Another&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/12/17]&lt;/strong&gt; Another&amp;hellip; 2&lt;/p&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
